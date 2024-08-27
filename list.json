@@ -538,9 +538,9 @@
   },
   {
     "id": 66,
-    "remark": "learnhard-cn/free_proxy_ss",
-    "site": "https://github.com/learnhard-cn/free_proxy_ss",
-    "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/config.yaml|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ssr/ssrsub|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/ss/sssub|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/providers/provider_free.yaml|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/providers/provider_outwall.yaml|https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/providers/provider_netflix.yaml",
+    "remark": "mahdibland/vpn.fail",
+    "site": "https://github.com/mahdibland/get_v2",
+    "url": "https://raw.githubusercontent.com/mahdibland/get_v2/main/pub/vpn.fail",
     "update": "auto",
     "enabled": true
   },
@@ -623,14 +623,6 @@
     "remark": "proxypool.laowang.me/clash",
     "site": "https://proxypool.laowang.me/clash",
     "url": "https://proxypool.laowang.me/clash/proxies",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 77,
-    "remark": "mahdibland/vpn.fail",
-    "site": "https://github.com/mahdibland/get_v2",
-    "url": "https://raw.githubusercontent.com/mahdibland/get_v2/main/pub/vpn.fail",
     "update": "auto",
     "enabled": true
   }

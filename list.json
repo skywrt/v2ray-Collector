@@ -25,9 +25,9 @@
   },
   {
     "id": 3,
-    "remark": "colatiger/v2ray-nodes",
-    "site": "https://github.com/colatiger/v2ray-nodes",
-    "url": "https://proxy.huwo.club/v2ray.txt",
+    "remark": "aiboboxx/v2rayfree",
+    "site": "https://github.com/aiboboxx/v2rayfree",
+    "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     "update": "auto",
     "enabled": true
   },
@@ -41,11 +41,11 @@
   },
   {
     "id": 5,
-    "remark": "kxswa/k",
-    "site": "https://github.com/kxswa/k",
-    "url": "https://raw.githubusercontent.com/kxswa/k/k/base64",
+    "remark": "wrfree/free",
+    "site": "https://github.com/wrfree/free",
+    "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
     "update": "auto",
-    "enabled": true
+    "enabled": false
   },
   {
     "id": 6,
@@ -76,22 +76,6 @@
     "remark": "Jsnzkpg/Jsnzkpg",
     "site": "https://github.com/Jsnzkpg/Jsnzkpg",
     "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 10,
-    "remark": "wrfree/free",
-    "site": "https://github.com/wrfree/free",
-    "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
-    "update": "auto",
-    "enabled": false
-  },
-  {
-    "id": 11,
-    "remark": "aiboboxx/v2rayfree",
-    "site": "https://github.com/aiboboxx/v2rayfree",
-    "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     "update": "auto",
     "enabled": true
   }

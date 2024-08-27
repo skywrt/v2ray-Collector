@@ -17,14 +17,6 @@
   },
   {
     "id": 2,
-    "remark": "mianfeifq/share",
-    "site": "https://github.com/mianfeifq/share",
-    "url": "https://raw.githubusercontent.com/mianfeifq/share/main/data2024071.txt",
-    "update": "Y-m-d",
-    "enabled": true
-  },
-  {
-    "id": 3,
     "remark": "FiFier/v2rayShare",
     "site": "https://github.com/FiFier/v2rayShare",
     "url": "https://v2rayshare.com/wp-content/uploads/2024/08/20240828.txt",
@@ -32,15 +24,7 @@
     "enabled": true
   },
   {
-    "id": 4,
-    "remark": "huanongkejizhijia/clashnode",
-    "site": "https://github.com/huanongkejizhijia/clashnode",
-    "url": "https://clashnode.com/wp-content/uploads/2024/05/20240522.txt",
-    "update": "Y/m/Y-m-d",
-    "enabled": true
-  },
-  {
-    "id": 5,
+    "id": 3,
     "remark": "freefq/free",
     "site": "https://github.com/freefq/free",
     "url": "https://raw.githubusercontent.com/freefq/free/master/v2",
@@ -48,7 +32,7 @@
     "enabled": true
   },
   {
-    "id": 6,
+    "id": 4,
     "remark": "aiboboxx/v2rayfree",
     "site": "https://github.com/aiboboxx/v2rayfree",
     "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
@@ -56,7 +40,7 @@
     "enabled": true
   },
   {
-    "id": 7,
+    "id": 5,
     "remark": "learnhard-cn/free_proxy_ss",
     "site": "https://github.com/learnhard-cn/free_proxy_ss",
     "url": "https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free",
@@ -64,7 +48,7 @@
     "enabled": true
   },
   {
-    "id": 8,
+    "id": 6,
     "remark": "wrfree/free",
     "site": "https://github.com/wrfree/free",
     "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
@@ -72,7 +56,7 @@
     "enabled": true
   },
   {
-    "id": 9,
+    "id": 7,
     "remark": "Pawdroid/Free-servers",
     "site": "https://github.com/Pawdroid/Free-servers",
     "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
@@ -80,7 +64,7 @@
     "enabled": true
   },
   {
-    "id": 10,
+    "id": 8,
     "remark": "anaer/Sub",
     "site": "https://github.com/anaer/Sub",
     "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
@@ -88,7 +72,7 @@
     "enabled": true
   },
   {
-    "id": 11,
+    "id": 9,
     "remark": "Jsnzkpg/Jsnzkpg",
     "site": "https://github.com/Jsnzkpg/Jsnzkpg",
     "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
@@ -96,7 +80,7 @@
     "enabled": true
   },
   {
-    "id": 12,
+    "id": 10,
     "remark": "Edoudotnet/v2ray-sub-collector-x",
     "site": "https://github.com/Edoudotnet/v2ray-sub-collector-x",
     "url": "https://raw.githubusercontent.com/Edoudotnet/v2ray-sub-collector-x/main/Base64/Emad%20Sub1_base64.txt|https://raw.githubusercontent.com/Edoudotnet/v2ray-sub-collector-x/main/Base64/Emad%20Sub2_base64.txt",

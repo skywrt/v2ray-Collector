@@ -24,10 +24,10 @@
   },
   {
     "id": 3,
-    "remark": "colatiger/v2ray-nodes",
-    "site": "https://github.com/colatiger/v2ray-nodes",
-    "url": "https://proxy.huwo.club/v2ray.txt",
-    "enabled": true
+    "remark": "wrfree/free",
+    "site": "https://github.com/wrfree/free",
+    "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
+    "enabled": false
   },
   {
     "id": 4,
@@ -70,12 +70,5 @@
     "site": "https://github.com/Jsnzkpg/Jsnzkpg",
     "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
     "enabled": true
-  },
-  {
-    "id": 10,
-    "remark": "wrfree/free",
-    "site": "https://github.com/wrfree/free",
-    "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
-    "enabled": false
   }
 ]

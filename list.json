@@ -554,12 +554,11 @@
   },
   {
     "id": 68,
-    "remark": "SnapdragonLee/SystemProxy",
-    "site": "https://github.com/SnapdragonLee/SystemProxy",
-    "url": "https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml|https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra.yaml|https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra_US.yaml",
+    "remark": "proxypool.laowang.me/clash",
+    "site": "https://proxypool.laowang.me/clash",
+    "url": "https://proxypool.laowang.me/clash/proxies",
     "update": "auto",
-    "enabled": true,
-    "description": "not updating frequently"
+    "enabled": true
   },
   {
     "id": 69,
@@ -617,13 +616,5 @@
     "update": "auto",
     "enabled": true,
     "description": "updated last year"
-  },
-  {
-    "id": 76,
-    "remark": "proxypool.laowang.me/clash",
-    "site": "https://proxypool.laowang.me/clash",
-    "url": "https://proxypool.laowang.me/clash/proxies",
-    "update": "auto",
-    "enabled": true
   }
 ]

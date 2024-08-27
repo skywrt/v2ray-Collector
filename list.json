@@ -53,8 +53,7 @@
     "site": "https://github.com/vpei/Free-Node-Merge",
     "url": "https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/res/nod-0.txt|https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/res/nod-1.txt|https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/res/nod-2.txt|https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/res/nod-3.txt|https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/res/nod-4.txt|https://raw.githubusercontent.com/vpei/Free-Node-Merge/main/res/nod-5.txt",
     "update": "auto",
-    "enabled": false,
-    "description": "out.txt has been removed, new links are way too big - disabled for now"
+    "enabled": false
   },
   {
     "id": 7,
@@ -278,8 +277,7 @@
     "site": "https://github.com/webdao/v2ray",
     "url": "https://raw.githubusercontent.com/webdao/v2ray/master/nodes.txt",
     "update": "auto",
-    "enabled": false,
-    "description": "wrong base64 content format"
+    "enabled": false
   },
   {
     "id": 35,
@@ -359,8 +357,7 @@
     "site": "https://gitlab.com/ripaojiedian/freenode",
     "url": "https://gitlab.com/ripaojiedian/freenode/-/raw/main/sub",
     "update": "auto",
-    "enabled": false,
-    "description": "no direct access to gitlab"
+    "enabled": false
   },
   {
     "id": 45,
@@ -368,8 +365,7 @@
     "site": "https://free.dswang.ga/clash",
     "url": "https://free.dswang.ga/clash/proxies",
     "update": "auto",
-    "enabled": false,
-    "description": "it's now being handled with get_v2"
+    "enabled": false
   },
   {
     "id": 46,
@@ -377,8 +373,7 @@
     "site": "https://hellopool.herokuapp.com/clash",
     "url": "https://hellopool.herokuapp.com/clash/proxies",
     "update": "auto",
-    "enabled": false,
-    "description": "it's removed"
+    "enabled": false
   },
   {
     "id": 47,
@@ -394,8 +389,7 @@
     "site": "https://sspool.herokuapp.com/clash",
     "url": "https://sspool.herokuapp.com/clash/proxies",
     "update": "auto",
-    "enabled": false,
-    "description": "Not active anymore"
+    "enabled": false
   },
   {
     "id": 49,
@@ -427,8 +421,7 @@
     "site": "https://proxies.bihai.cf/clash",
     "url": "https://proxies.bihai.cf/clash/proxies",
     "update": "auto",
-    "enabled": false,
-    "description": "Not active anymore"
+    "enabled": false
   },
   {
     "id": 53,
@@ -508,8 +501,7 @@
     "site": "https://github.com/songtao1873/providers",
     "url": "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/others/base64",
     "update": "auto",
-    "enabled": false,
-    "description": "list similar to my list so disabled for now"
+    "enabled": false
   },
   {
     "id": 63,
@@ -517,8 +509,7 @@
     "site": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcnhoYkNPczBnMTloaXlKaEl2bUkwb040YUtHP2U9U2FNWURl",
     "url": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3QvcyFBcnhoYkNPczBnMTloaXlKaEl2bUkwb040YUtHP2U9U2FNWURl",
     "update": "auto",
-    "enabled": false,
-    "description": "it's removed"
+    "enabled": false
   },
   {
     "id": 64,
@@ -614,7 +605,6 @@
     "site": "https://github.com/hermanb001/ProxyTest",
     "url": "https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/us-proxypool|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/sspool|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/origamiboy|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/lonxin|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/jingfu|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/hellopool|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/eu-proxypool|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/guobang|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/free886|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/cloudkingzst|https://raw.githubusercontent.com/hermanb001/ProxyTest/main/subscribe/3wking",
     "update": "auto",
-    "enabled": true,
-    "description": "updated last year"
+    "enabled": true
   }
 ]

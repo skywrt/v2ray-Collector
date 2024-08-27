@@ -38,11 +38,11 @@
   },
   {
     "id": 5,
-    "remark": "kxswa/k",
-    "site": "https://github.com/kxswa/k",
-    "url": "https://raw.githubusercontent.com/kxswa/k/k/base64",
+    "remark": "aiboboxx/v2rayfree",
+    "site": "https://github.com/aiboboxx/v2rayfree",
+    "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     "enabled": true
-  },
+  }
   {
     "id": 6,
     "remark": "Pawdroid/Free-servers",
@@ -77,12 +77,5 @@
     "site": "https://github.com/wrfree/free",
     "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
     "enabled": false
-  },
-  {
-    "id": 11,
-    "remark": "aiboboxx/v2rayfree",
-    "site": "https://github.com/aiboboxx/v2rayfree",
-    "url": "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-    "enabled": true
   }
 ]

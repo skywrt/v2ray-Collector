@@ -81,6 +81,14 @@
   },
   {
     "id": 10,
+    "remark": "Leon406/SubCrawler",
+    "site": "https://github.com/Leon406/SubCrawler",
+    "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all5",
+    "update": "auto",
+    "enabled": true
+  },
+  {
+    "id": 11,
     "remark": "Edoudotnet/v2ray-sub-collector-x",
     "site": "https://github.com/Edoudotnet/v2ray-sub-collector-x",
     "url": "https://raw.githubusercontent.com/Edoudotnet/v2ray-sub-collector-x/main/Base64/Emad%20Sub1_base64.txt|https://raw.githubusercontent.com/Edoudotnet/v2ray-sub-collector-x/main/Base64/Emad%20Sub2_base64.txt",

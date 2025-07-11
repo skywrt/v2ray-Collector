@@ -1,26 +1,26 @@
 [
   {
     "id": 0,
-    "remark": "nodefree.org",
-    "site": "https://github.com/Fukki-Z/nodefree",
-    "url": "https://nodefree.org/dy/2025/05/20250530.txt",
-    "update": "Y/m/Y-m-d",
+    "remark": "anaer/Sub",
+    "site": "https://github.com/anaer/Sub",
+    "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
+    "update": "auto",
     "enabled": true
   },
   {
     "id": 1,
-    "remark": "pojiezhiyuanjun/freev2",
-    "site": "https://github.com/pojiezhiyuanjun/freev2",
-    "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0711.txt",
-    "update": "m-d",
+    "remark": "Pawdroid/Free-servers",
+    "site": "https://github.com/Pawdroid/Free-servers",
+    "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+    "update": "auto",
     "enabled": true
   },
   {
     "id": 2,
-    "remark": "FiFier/v2rayShare",
-    "site": "https://github.com/FiFier/v2rayShare",
-    "url": "https://v2rayshare.com/wp-content/uploads/2025/05/20250530.txt",
-    "update": "Y/m/Y-m-d",
+    "remark": "pojiezhiyuanjun/freev2",
+    "site": "https://github.com/pojiezhiyuanjun/freev2",
+    "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0711.txt",
+    "update": "m-d",
     "enabled": true
   },
   {
@@ -52,46 +52,6 @@
     "remark": "wrfree/free",
     "site": "https://github.com/wrfree/free",
     "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 7,
-    "remark": "Pawdroid/Free-servers",
-    "site": "https://github.com/Pawdroid/Free-servers",
-    "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 8,
-    "remark": "anaer/Sub",
-    "site": "https://github.com/anaer/Sub",
-    "url": "https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 9,
-    "remark": "Jsnzkpg/Jsnzkpg",
-    "site": "https://github.com/Jsnzkpg/Jsnzkpg",
-    "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 10,
-    "remark": "Leon406/SubCrawler",
-    "site": "https://github.com/Leon406/SubCrawler",
-    "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/all5",
-    "update": "auto",
-    "enabled": true
-  },
-  {
-    "id": 11,
-    "remark": "Edoudotnet/v2ray-sub-collector-x",
-    "site": "https://github.com/Edoudotnet/v2ray-sub-collector-x",
-    "url": "https://raw.githubusercontent.com/Edoudotnet/v2ray-sub-collector-x/main/Base64/Emad%20Sub1_base64.txt|https://raw.githubusercontent.com/Edoudotnet/v2ray-sub-collector-x/main/Base64/Emad%20Sub2_base64.txt",
     "update": "auto",
     "enabled": true
   }

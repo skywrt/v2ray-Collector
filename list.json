@@ -54,5 +54,26 @@
     "url": "https://raw.githubusercontent.com/wrfree/free/main/v2",
     "update": "auto",
     "enabled": true
+  },
+  {
+    "id": 7,
+    "remark": "peasoft/NoMoreWalls",
+    "site": "https://github.com/peasoft/NoMoreWalls",
+    "url": "https://github.com/peasoft/NoMoreWalls/raw/refs/heads/master/list.txt",
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "remark": "ripaojiedian/freenode",
+    "site": "https://github.com/ripaojiedian/freenode",
+    "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub",
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "remark": "free18/v2ray",
+    "site": "https://github.com/free18/v2ray",
+    "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
+    "enabled": true
   }
 ]

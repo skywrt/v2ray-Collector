@@ -60,6 +60,7 @@
     "remark": "peasoft/NoMoreWalls",
     "site": "https://github.com/peasoft/NoMoreWalls",
     "url": "https://github.com/peasoft/NoMoreWalls/raw/refs/heads/master/list.txt",
+    "update": "auto",
     "enabled": true
   },
   {
@@ -67,6 +68,7 @@
     "remark": "ripaojiedian/freenode",
     "site": "https://github.com/ripaojiedian/freenode",
     "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/main/sub",
+    "update": "auto",
     "enabled": true
   },
   {
@@ -74,6 +76,7 @@
     "remark": "free18/v2ray",
     "site": "https://github.com/free18/v2ray",
     "url": "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt",
+    "update": "auto",
     "enabled": true
   }
 ]
